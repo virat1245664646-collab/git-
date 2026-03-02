@@ -1,6 +1,6 @@
-#GIT learning 
-this is a complete learning of git 
-course
+# GIT learning 
+
+# this is the bug2 branch 
 
 # newly added
 
